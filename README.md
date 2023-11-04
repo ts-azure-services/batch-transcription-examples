@@ -1,5 +1,5 @@
 # batch-transcription-samples
-A repo to document some code related to Azure Speech to text's batch transcription features. Source files from
+A repo to document some code related to Azure Speech to text's batch transcription features using the REST APIs. Source files from
 [here](https://www.youtube.com/watch?v=lYxx-8wQSO0&t=1s), the
 [here](https://www.youtube.com/watch?v=gxaj1cD5Qnw&t=2s), and [here](https://www.youtube.com/watch?v=rm52Oh7FPXY).
 
