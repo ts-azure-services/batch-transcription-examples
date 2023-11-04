@@ -11,4 +11,4 @@ host the audio files), you can run `make infra`, which creates a resource group,
 infrastructure, etc.  This also takes the files in `source-audio` and uploads them as a batch. 
 - Once that runs successfully, you can then run `make create-transcript` to initiate a batch transcription.
 - Then, run `make get-status` to check on the status of the job request.
-- Run `make get-files` and `make get-file-transcripts` (in that order) to download the transcriptions,.
+- Run `make get-files` and `make get-file-transcripts` (in that order) to download the transcriptions.
