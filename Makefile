@@ -45,3 +45,7 @@ get-files:
 # Get file transcripts once you have them saved to "file_list.txt" (from above)
 get-file-transcripts:
 	./scroll.sh
+
+# Get speaker back and forth interaction in human-readable form
+get-speaker-transcript:
+	node ./split-speaker.js
